@@ -15,7 +15,8 @@ SDL_Renderer* renderer = NULL;
 //texture pointer
 SDL_Texture* texture;
 SDL_Rect sourceRectangle;
-SDL_Rect destinationRectangle;
+SDL_Rect destinationRectangle;
+
 
 int main(int argc, char **argv)
 {

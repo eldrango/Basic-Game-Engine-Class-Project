@@ -18,7 +18,7 @@ void Hero::setAnimation(Animation* animation) {
 
 void Hero::update(float dt) {
 	if (faceRight){
-		x += dt* 50;
+		x += dt* 800;
 		}
 	else {
 		x -= dt*50;
