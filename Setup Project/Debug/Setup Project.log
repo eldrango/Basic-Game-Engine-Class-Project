@@ -1,0 +1,11 @@
+﻿  Entity.cpp
+  Hero.cpp
+d:\ait\2nd year\semester 1\game engine\draw project\setup project\setup project\hero.cpp(37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\ait\2nd year\semester 1\game engine\draw project\setup project\setup project\hero.cpp(39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+d:\ait\2nd year\semester 1\game engine\draw project\setup project\setup project\main.cpp(109): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\ait\2nd year\semester 1\game engine\draw project\setup project\setup project\main.cpp(110): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\ait\2nd year\semester 1\game engine\draw project\setup project\setup project\main.cpp(111): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\ait\2nd year\semester 1\game engine\draw project\setup project\setup project\main.cpp(131): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Setup Project.vcxproj -> D:\AIT\2nd year\semester 1\game engine\Draw Project\Setup Project\Debug\Setup Project.exe
